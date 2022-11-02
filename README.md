@@ -1,8 +1,8 @@
-<img align="right" alt="gif-gif" src="https://github.com/Rafael-MJ/Rafael-MJ/blob/main/gif.gif" height="100" width="100"/>
+<img align="right" alt="gif-gif" src="https://github.com/Rafael-MJ/Rafael-MJ/blob/main/gif.gif" height="110" width="110"/>
 
-![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+10P&color=00ff9c&size=14&lines=Olá,+me+chamo+Rafael,+bem-vindo+ao+meu+Github!;+Estou+iniciando+carreira+como+dev+Back-end.)
+![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+10P&color=00ff9c&size=15&lines=Olá,+me+chamo+Rafael,+bem-vindo+ao+meu+Github!;+Estou+iniciando+carreira+como+dev+Back-end.)
 
-<br/> 
+<br/>
 
    <h3 align="center"> 🌐Informações🌐 </h3>
   
