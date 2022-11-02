@@ -4,15 +4,13 @@
 
 <br/> 
 
-   <h3> 🌐Informações🌐 </h3>
+   <h3 align="center"> 🌐Informações🌐 </h3>
   
     - 💻 Sempre tive muito apreço pela tecnologia e programação, principalmente pela linguagem Java.
     - ⌛ Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na Facens.
     - ✅ Gosto muito de criar diversos projetos de estudo para desenvolver o aprendizado.
-    
-<br/>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
  <img align="center" alt="Rafael-Java" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
  <img align="center" alt="Rafael-Python" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
  <img align="center" alt="Rafael-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -29,12 +27,14 @@
 
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://br.linkedin.com/in/rafael-modena-jakubovsky-8aa462249" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:?@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   
+   <br>
+   
+   ![](https://komarev.com/ghpvc/?username=your-github-Rafael-MJ&color=00ff9c)
+   
 </div>
-
-![](https://komarev.com/ghpvc/?username=your-github-Rafael-MJ&color=00ff9c)
