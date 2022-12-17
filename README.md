@@ -7,8 +7,8 @@
    <h3 align="center"> 🌐Informações🌐 </h3>
   
     - 💻 Sempre tive muito apreço pela tecnologia e programação, principalmente pela linguagem Java.
-    - ⌛ Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na Facens.
-    - ✅ Gosto muito de criar diversos projetos de estudo para desenvolver o aprendizado.
+    - ⌛ Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Facens.
+    - ✅ Costumo criar diversos projetos de estudo para desenvolver o aprendizado.
 
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Rafael-Java" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
