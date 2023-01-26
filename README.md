@@ -1,6 +1,6 @@
 <img align="right" alt="gif-gif" src="https://github.com/Rafael-MJ/Rafael-MJ/blob/main/gif.gif" height="110" width="110"/>
 
-![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+10P&color=00ff9c&size=15&lines=Olá,+me+chamo+Rafael,+bem-vindo+ao+meu+Github!;+Estou+iniciando+carreira+como+dev+Back-end.)
+![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+10P&color=00ff9c&size=15&lines=Olá,+me+chamo+Rafael,+bem-vindo+ao+meu+GitHub!;+Estou+iniciando+carreira+como+desenvolvedor.)
 
 <br/>
 
@@ -32,8 +32,6 @@
   <a href = "mailto:rafaeljakubovsky@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   
-   <br>
    
    ![](https://komarev.com/ghpvc/?username=your-github-Rafael-MJ&color=00ff9c)
    
