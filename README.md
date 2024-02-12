@@ -16,7 +16,7 @@
 
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Rafael-Java" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
- <img align="center" alt="Rafael-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+ <img align="center" alt="Rafael-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
  <img align="center" alt="Rafael-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Rafael-CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Rafael-CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
