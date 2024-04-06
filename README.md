@@ -25,14 +25,14 @@
 
 </div>
   
-  ##
+<br/>
 
 <div align="center">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Rafael-MJ&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-MJ&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-  ##
+<br/>
  
 <div align="center"> 
   <a href="https://br.linkedin.com/in/rafaelmj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0cf299" target="_blank"></a> 
