@@ -1,12 +1,10 @@
+<h4 align="center"> 🌐 <a href="https://rafaelmj.xyz/">rafaelmj.xyz</a> 🌐 </h4>
+
+<br/>
+
 <img align="right" alt="gif-gif" src="https://github.com/Rafael-MJ/Rafael-MJ/blob/main/gif.gif" height="80" width="135"/>
 
 ![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+10P&color=00ff9c&size=15&lines=Olá,+me+chamo+Rafael,+bem-vindo+ao+meu+GitHub!;+Aqui+você+encontra+alguns+dos+meus+projetos.)
-
-<br/>
-
-   <h4 align="center"> 🌐 <a href="https://rafaelmj.xyz/">rafaelmj.xyz</a> 🌐 </h4>
-
-<br/>
    
    <h3 align="center"> ℹ️Informaçõesℹ️ </h3>
   
