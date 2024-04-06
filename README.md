@@ -15,14 +15,15 @@
     - ✅ Costumo criar projetos de estudo para desenvolver o aprendizado.
 
 <div align="center" style="display: inline_block"><br>
- <img align="center" alt="Rafael-Java" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
- <img align="center" alt="Rafael-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
- <img align="center" alt="Rafael-HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafael-CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafael-CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="Rafael-Bootstrap" height="50" width="60" src="https://github.com/jmnote/z-icons/blob/master/svg/bootstrap.svg">
- <img align="center" alt="Rafael-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angularjs/angularjs-original.svg">
- <img align="center" alt="Rafael-VueJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg">
+ <img align="center" alt="Rafael-Java" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+   <img align="center" alt="Rafael-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg">
+ <img align="center" alt="Rafael-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Rafael-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafael-CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafael-CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Rafael-Bootstrap" height="40" width="50" src="https://github.com/jmnote/z-icons/blob/master/svg/bootstrap.svg">
+ <img align="center" alt="Rafael-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angularjs/angularjs-original.svg">
+ <img align="center" alt="Rafael-VueJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg">
 
 </div>
   
