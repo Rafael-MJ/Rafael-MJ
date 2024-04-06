@@ -38,8 +38,8 @@
   ##
  
 <div align="center"> 
-  <a href="https://br.linkedin.com/in/rafaelmj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafaeljakubovsky@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/rafaelmj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0cf299?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a> 
+  <a href = "mailto:rafaeljakubovsky@hotmail.com"><img src="https://img.shields.io/badge/-Email-0cf299?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    
    ![](https://komarev.com/ghpvc/?username=your-github-Rafael-MJ&color=00ff9c)
    
