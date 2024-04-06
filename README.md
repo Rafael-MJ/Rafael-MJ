@@ -6,7 +6,7 @@
 
 ![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+10P&color=00ff9c&size=15&lines=Olá,+me+chamo+Rafael,+bem-vindo+ao+meu+GitHub!;+Aqui+você+encontra+alguns+dos+meus+projetos.)
    
-   <h3 align="center"> ℹ️Informaçõesℹ️ </h3>
+<br/>
   
     - 💻 Sempre me interessei muito na área de TI.
     - ⌛ Cursando Análise e Desenvolvimento de Sistemas na Facens.
@@ -41,6 +41,8 @@
    ![](https://komarev.com/ghpvc/?username=your-github-Rafael-MJ&color=00ff9c)
    
 </div>
+
+##
 
 <div align="center">
    <picture>
