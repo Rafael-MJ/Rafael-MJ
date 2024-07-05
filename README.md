@@ -1,4 +1,4 @@
-<h4 align="center"> 🌐 <a href="https://rafaelmj.com/">rafaelmj.xyz</a> 🌐 </h4>
+<h4 align="center"> 🌐 <a href="https://rafaelmj.com/">rafaelmj.com</a> 🌐 </h4>
 
 <br/>
 
