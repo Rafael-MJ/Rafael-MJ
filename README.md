@@ -9,7 +9,7 @@
 <br/>
   
     - 💻 Sempre me interessei muito na área de TI.
-    - ⌛ Cursando Análise e Desenvolvimento de Sistemas na Facens.
+    - 🎓 Formado em Análise e Desenvolvimento de Sistemas na Facens.
     - ✅ Costumo criar projetos de estudo para desenvolver o aprendizado.
 
 <div align="center" style="display: inline_block"><br>
