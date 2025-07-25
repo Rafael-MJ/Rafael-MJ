@@ -10,7 +10,7 @@
   
     - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
     - ✅ Costumo criar projetos de estudo para desenvolver o aprendizado.
-    - 🏢 Experiência em planejamento estratégico no Grupo Petrópolis desenvolvendo dashboards e automações.
+    - 🏢 Experiência em desenvolvimento de dashboards e automações no Grupo Petrópolis.
 
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Rafael-Java" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
