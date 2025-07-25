@@ -9,7 +9,6 @@
 <br/>
   
     - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-    - 🔄 Cursando MBA em Data Science e Analytics.
     - ✅ Costumo criar projetos de estudo para desenvolver o aprendizado.
 
 <div align="center" style="display: inline_block"><br>
