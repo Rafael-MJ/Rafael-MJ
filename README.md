@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" alt="gif-gif" src="https://github.com/Rafael-MJ/Rafael-MJ/blob/main/logo.svg" height="80" width="135"/>
+<img align="right" alt="gif-gif" src="https://github.com/Rafael-MJ/Rafael-MJ/blob/main/logo.svg" height="65" />
 
 ![](https://readme-typing-svg.herokuapp.com/?font=Press+Start+10P&color=00ff9c&size=15&lines=Olá,+me+chamo+Rafael,+bem-vindo+ao+meu+GitHub!;+Aqui+você+encontra+alguns+dos+meus+projetos.)
    
