@@ -5,15 +5,17 @@
     - 🎓 Formado em Análise e Desenvolvimento de Sistemas
     - 🏢 Experiência em desenvolvimento de dashboards e automações no Grupo Petrópolis
 
-<div align="center" style="display: inline_block"><br>
- <img align="center" alt="Rafael-Java" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-   <img align="center" alt="Rafael-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg">
- <img align="center" alt="Rafael-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
- <img align="center" alt="Rafael-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Rafael-CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafael-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg">
- <img align="center" alt="Rafael-BI" height="40" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg">
- <img align="center" alt="Rafael-Automate" height="40" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-Automate-Colored.svg">
+<br/>
+
+<div align="center" style="display: inline_block">
+ <img align="center" alt="Rafael-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+ <img align="center" alt="Rafael-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg">
+ <img align="center" alt="Rafael-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Rafael-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafael-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafael-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Rafael-BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg">
+ <img align="center" alt="Rafael-Automate" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-Automate-Colored.svg">
 
 </div>
 
